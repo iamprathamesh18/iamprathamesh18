@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌱 I’m currently learning web development, data analysis.
-- 👯 I’m looking to collaborate on open source web dev projects.
+- 👯 I’m looking to collaborate on web dev projects.
 - 📫 How to reach me: prathamshinde0701@gmail.com
 
 ## Languages and Tools
