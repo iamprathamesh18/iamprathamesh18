@@ -9,10 +9,10 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 
 
