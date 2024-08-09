@@ -18,4 +18,17 @@
 
 
 ## Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iamprathamesh18&show_icons=true&theme=radical)
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<!-- https://github-readme-streak-stats-salesp07.vercel.app?user=&theme=tokyonight)](https://git.io/streak-stats -->
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=iamprathamesh18&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <br/> <br/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaprathamesh18&layout=donut&theme=tokyonight&text_color=ffffff" alt="streak stats"/>
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
