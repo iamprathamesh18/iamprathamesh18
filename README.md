@@ -1,8 +1,6 @@
 # Hi there, I'm Prathamesh 👋
 
 ## About Me
-- 🌱 I’m currently learning web development, data analysis.
-- 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: prathamshinde0701@gmail.com
 
 ## Languages and Tools
