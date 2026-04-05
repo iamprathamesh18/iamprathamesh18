@@ -49,24 +49,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 
----
 
-## 📂 Featured Projects
-
-### 📊 Options Market Analytics
-- Analyze **Open Interest & Volume**
-- Identify **Intraday vs Carryforward trends**
-- Built using **Python, SQL, Tableau**
-
-### 💰 Personal Finance Tracker
-- Track expenses and visualize spending patterns
-- Interactive dashboards using **React + Chart.js**
-
-### 📈 Stock Market Dashboard
-- Real-time and historical data visualization
-- Clean UI with **React + APIs**
-
----
 
 ## 📊 GitHub Stats
 
