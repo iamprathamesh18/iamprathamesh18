@@ -41,6 +41,7 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
 ![Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoft-excel)
 ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=tableau)
+![Power BI](https://img.shields.io/badge/-PowerBI-000?&logo=powerbi)
 
 ### 🧩 Other Tools
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
