@@ -1,7 +1,7 @@
 # Hi there, I'm Prathamesh 👋
 
 ## 🚀 About Me
-- 🎓 Final Year Engineering Student (2025 Passout)
+- 🎓 Electronics and Computer Engineering Student (2025 Passout)
 - 💻 Aspiring **MERN Stack Developer** & **Data Analyst**
 - 📊 Passionate about building **data-driven web applications**
 - 📈 Interested in **Stock Market Analytics & Visualization**
