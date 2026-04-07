@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🎓 Electronics and Computer Engineer (2025 Passout)
-- 💻 Aspiring **MERN Stack Developer** & **Data Analyst**
+- 💻 **MERN Stack Developer** & **Data Analyst**
 - 📊 Passionate about building **data-driven web applications**
 - 📈 Interested in **Stock Market Analytics & Visualization**
 - 📫 Reach me at: **prathamshinde0701@gmail.com**
